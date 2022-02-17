@@ -1,0 +1,21 @@
+.header{
+  text-align: center;
+}
+.logo{
+  height: 5rem;
+}
+nav{
+  background-color: black;
+  
+}
+nav a{
+  color: aliceblue;
+  text-decoration: none;
+  line-height: 3rem; 
+  font-size: 1.5rem;
+  padding: 5px;
+  margin: 25px;
+}
+nav a:hover{
+  background-color: gray;
+}
